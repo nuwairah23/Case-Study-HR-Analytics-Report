@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Case Study - HR Analytics Report"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "01e1d38a-f795-4225-aaa3-3e94e72ce67e"
+  }
+}
